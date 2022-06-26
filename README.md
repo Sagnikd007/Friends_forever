@@ -1,7 +1,7 @@
 # interactive_card
 
 A new Flutter project.Here I mainly used the card widget.Card is a build-in widget in flutter which derives its design from Google’s Material Design Library. The functionality of this widget on screen is, that it is a bland space or panel with round corners and a slight elevation on the lower side. It comes with many properties like color, shape, shadow color, etc which lets developers customize it the way they like. Below we will go through all its properties and an example to see its implementation.
-Online documentation is best,but as a simple example- https://www.geeksforgeeks.org/flutter-card-widget/
+Online documentation is best,but as a simple example see this link- https://www.geeksforgeeks.org/flutter-card-widget/
 ![image](https://user-images.githubusercontent.com/94695634/175820878-77d83625-b8a9-49b7-ba62-7bfb118aa0b8.png)
 
 
